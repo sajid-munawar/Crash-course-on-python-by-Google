@@ -45,7 +45,7 @@ list.extend(other_list) Appends all the elements of other_list at the end of lis
 
 [expression for variable in sequence if condition] Creates a new list based on the given sequence. Each element is the result of the given expression; elements only get added if the condition is true.  
 
-Modifying Lists
+## Modifying Lists
 While lists and strings are both sequences, a big difference between them is that **lists are mutable**.
 This means that the contents of the list can be changed, unlike **strings, which are immutable**.
 You can add, remove, or modify elements in a list.
